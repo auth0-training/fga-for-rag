@@ -5,7 +5,7 @@
   "steps": [
     {
       "title": "Checkpoint",
-      "description": "## Checkpoint\n\n### You just:\n1. Created a RAG pipeline using LangChain and the Node.js Auth0 AI Langchain SDK.\n\n### Next you will:\n1. Run the application to test FGA on our RAG pipeline."
+      "description": "## Checkpoint\n\n### You just:\n1. Created a RAG pipeline using LangChain and the Node.js Auth0 AI SDK.\n\n### Next you will:\n1. Run the application to test FGA on our RAG pipeline."
     },
     {
       "file": "",
