@@ -2,7 +2,7 @@
 
 As part of Auth0 for AI Agents, you can leverage Auth0 FGA to implement fine-grained authorization for Retrieval Augmented Generation (RAG). When a user prompts an AI agent for for information, the AI agent uses the RAG pipeline to generate a response. But what if the response has sensitive data? Using FGA, you can ensure the user has authorization to receive the data in the response before the response is rendered.
 
-This lab uses adapted sample code from Auth0 documentation on how to set up [Authorization for RAG](https://auth0.com/ai/docs/authorization-for-rag) using Auth0 FGA.
+This lab uses adapted sample code from Auth0 documentation on how to set up [Authorization for RAG](https://auth0.com/ai/docs/authorization-for-rag) using Auth0 FGA, LangGraph.js, and Node.js.
 
 
 ---
