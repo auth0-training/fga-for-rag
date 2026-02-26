@@ -5,7 +5,7 @@
   "steps": [
     {
       "title": "Checkpoint",
-      "description": "## Checkpoint\n\n### You just:\n1. Created a RAG pipeline using LangChain and the Node.js Auth0 AI Langchain SDK.\n\n### Next you will:\n1. Run the application to test FGA on our RAG pipeline."
+      "description": "## Checkpoint\n\n### You just:\n1. Created a RAG pipeline using LangChain and the Node.js Auth0 AI SDK.\n\n### Next you will:\n1. Run the application to test FGA on our RAG pipeline."
     },
     {
       "file": "",
@@ -33,7 +33,7 @@
     },
     {
       "title": "Finished!",
-      "description": "## Finished!\n🎉 Congratulations, you have completed the lab! \n\nIn this lab, you:\n\n1. Created an Auth0 FGA store and client.\n2. Set the Auth0 FGA and Google Gemini specific environment variables in your .env file so that you can call the Auth0 FGA and Google Gemini APIs from an included sample application.\n3. Created an Auth0 FGA model.\n4. Created a relationship tuple that specifies that all users can view the public-doc.\n5. Created a RAG pipeline using LangChain and the Node.js Auth0 AI Langchain SDK.\n6. Ran the application to test FGA on our RAG pipeline.\n7. Updated the relationship tuples to give a user access to the private-doc, so the agent could answer a question requiring restricted information.\n\n## ⭐ Bonus: Earn an Auth for AI Agents Skill Badge\n\nFurther your learning with our [Secure AI Workflows with Auth for AI Agents](https://learning.okta.com/path/secure-ai-workflows-with-auth-for-ai-agents) learning path. Pass the assessment and earn a skill badge that you can show off on social media!",
+      "description": "## Finished!\n🎉 Congratulations, you have completed the lab! \n\nIn this lab, you:\n\n1. Created an Auth0 FGA store and client.\n2. Set the Auth0 FGA and Google Gemini specific environment variables in your .env file so that you can call the Auth0 FGA and Google Gemini APIs from an included sample application.\n3. Created an Auth0 FGA model.\n4. Created a relationship tuple that specifies that all users can view the public-doc.\n5. Created a RAG pipeline using LangChain and the Node.js Auth0 AI SDK.\n6. Ran the application to test FGA on our RAG pipeline.\n7. Updated the relationship tuples to give a user access to the private-doc, so the agent could answer a question requiring restricted information.\n\n## Next steps \n\n1. ⭐ **Earn a Skill Badge**: Further your learning with our [Secure Your RAG Pipelines with Auth0 Fine-Grained Access](https://learning.okta.com/path/secure-your-rag-pipelines-with-auth0-fine-grained-access) learning path. Pass the assessment and earn a skill badge that you can show off on social media!\n2. **Check out the quickstarts**: Not using Node.js + LangChain? Check out our quickstarts for other tech stacks: https://auth0.com/ai/docs/get-started/authorization-for-rag",
       "selection": {
         "start": {
           "line": 2,
